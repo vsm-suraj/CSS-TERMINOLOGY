@@ -1,0 +1,19 @@
+.container{
+    background: linear-gradient(red,green);   
+}
+
+.col-sm-3{
+    background: firebrick;
+    height: 300px;
+}
+
+.col-sm-9{
+    background: darkslateblue;
+    height: 300px;
+}
+
+.col-sm-9 .col-sm-3{
+    background: cyan;
+    height: 200px;
+    border: 2px solid black;
+}
