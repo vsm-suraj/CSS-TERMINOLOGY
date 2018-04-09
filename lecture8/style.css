@@ -1,0 +1,20 @@
+.container{
+    background-color: grey;
+    border: 2px solid springgreen;
+    /* overflow: hidden;  method to clear float */ 
+}
+
+.cf:before,
+.cf:after{
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+.cf:after{
+    clear: both;
+}
+
+img{
+    
+    width: 300px;
+    float: left;
+}
