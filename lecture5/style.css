@@ -1,0 +1,29 @@
+*{
+    box-sizing: -moz-border-box;
+    box-sizing: -webkit-border-box;
+    box-sizing: border-box;
+}
+/* .box{
+    width: 400px;
+    height: 300px;
+    background: rgb(60, 60, 60);
+} */
+
+.container{
+    width: 600px;
+    background-color: rgb(60, 60, 60)
+}
+aside, .primery-content{
+    height: 500px;
+}
+aside{
+    width: 33.3%;
+    background-color: red;
+    float: left;
+}
+
+.primery-content{
+    width: 66.3%;
+    background-color: greenyellow;
+    float: right;;
+}
