@@ -1,0 +1,23 @@
+/* #people{
+    color: blue;
+} */
+
+/* .female{
+    color: red !important; 
+} */
+
+/* OR */
+
+/* #people li.female{
+    color: red;
+} */
+
+/* last way */
+
+li{
+    color: blue;
+}
+
+.female{
+    color: red;
+}
