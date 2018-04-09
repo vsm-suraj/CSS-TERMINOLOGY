@@ -1,0 +1,6 @@
+.container{
+    height: 100%;
+    /* background: -webkit-linear-gradient(red, yellow); */
+    /* background: -moz-linear-gradient(red, yellow) ; */
+    background:linear-gradient(rgb(255, 0, 0), rgb(119, 246, 0));
+}
